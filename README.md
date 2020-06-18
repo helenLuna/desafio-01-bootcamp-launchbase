@@ -1,11 +1,11 @@
-<h1>
+<h1 align="center">
     <img src ="https://ik.imagekit.io/nfua0vgzjv/launchbase_DATGKYlxH.png">
 </h1>
 
 ## Índice
 - [Sobre](#-sobre)
 - [Desafio IMC](#-desafio-imc)
-- [Desafio Cálculo da Aposentadoria](#-desafio-calculo-da-aposentadoria)
+- [Desafio Cálculo da Aposentadoria](#-desafio-cálculo-da-aposentadoria)
 
 ## 📚 Sobre
 
