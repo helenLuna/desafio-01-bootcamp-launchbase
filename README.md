@@ -7,6 +7,8 @@
 - [Desafio IMC](#-desafio-imc)
 - [Desafio Cálculo da Aposentadoria](#-desafio-cálculo-da-aposentadoria)
 
+---
+
 ## 📚 Sobre
 
 Este é o meu primeiro desafio do curso **Bootcamp LaunchBase** da **Rockeatseat**, com o objetivo de praticar o que foi visto durante as aulas de introdução ao Javascript. Os conceitos vistos até o momento foram:
