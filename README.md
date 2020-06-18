@@ -1,6 +1,6 @@
-<h3 align="center">
-    <img src ="https://ik.imagekit.io/nfua0vgzjv/launchbase_DATGKYlxH.png">
-</h3>
+<h1 align="center">
+    <img src ="https://ik.imagekit.io/nfua0vgzjv/launchbase_DATGKYlxH.png" width="400px">
+</h1>
 
 ## Índice
 - [Sobre](#-sobre)
